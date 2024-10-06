@@ -5,6 +5,8 @@
 *.so
 *.dylib
 
+/ouput.bmp
+
 # Test binary, built with `go test -c`
 *.test
 
