@@ -4,7 +4,7 @@ GoTracer is a concurrent ray tracing renderer implemented in Go. It demonstrates
 
 ## Sample
 
-![spheres](resources/output.bmp)
+![Ray Tracing Output](/resources/output.bmp)
 
 ## Features
 
@@ -24,7 +24,7 @@ GoTracer is a concurrent ray tracing renderer implemented in Go. It demonstrates
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/GoTracer.git
+git clone https://github.com/cschladetsch/GoTracer.git
 cd GoTracer
 ```
 
