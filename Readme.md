@@ -1,6 +1,8 @@
 # GoTracer
 
-GoTracer is a concurrent ray tracing renderer implemented in Go. It demonstrates the power of Go's concurrency features while producing visually appealing 3D renderings.
+GoTracer is a concurrent ray tracing renderer implemented in Go. It demonstrates the power of Go's concurrency.
+
+Also, why even.
 
 ## Sample
 
